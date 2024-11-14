@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\minimalAPIsTP1.props" />
+</Project>

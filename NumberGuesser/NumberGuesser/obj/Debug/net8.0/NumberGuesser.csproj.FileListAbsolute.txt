@@ -1,0 +1,14 @@
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+C:\Code\csharp-learning\NumberGuesser\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
